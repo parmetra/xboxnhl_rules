@@ -19,5 +19,7 @@
 > -   [Турниры World of CHEL](/woc/woc.md)
 >
 > -   [Турниры HUT](/hut/hut.md)
+>
+> -   [Момент сезона](/momentOfTheSeason/momentOfTheSeason.md)
 
 <!-- > -   [Турниры UFC](/ufc/ufc.md) -->
