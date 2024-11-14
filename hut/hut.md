@@ -2,6 +2,14 @@
 
 ![hut](hut.jpg)
 
+## Как играть в HUT
+
+> По просьбам участников был записан ролик, объясняющий, как начать свои первые шаги в данном режиме:
+>
+> <img src="https://www.svgrepo.com/show/448261/youtube.svg" alt="youtube" width=14/ align=center> https://youtu.be/YlyVUGsQ-rk
+>
+> <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" alt="vk" width=14/ align=center> https://vk.com/xboxnhl?z=video-215401666_456239053
+
 ## Введение
 
 Основная часть правил наследуется из [основного регламента турниров XBOXNHL](/nhl/nhl.md).
