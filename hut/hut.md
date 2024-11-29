@@ -39,8 +39,8 @@
 1.2.2 Узнать, какой OVR у соперника, можно, сложив три показателя (**OFF**, **DEF**, **GOA**) и разделив на три, пока вы подготавливаетесь к матчу или уже находитесь на экране загрузки. Пример на рисунке под спойлером:
 
 <details>
-<summary style="cursor: pointer">Рейтинг на экране загрузки
-<img src="https://www.svgrepo.com/show/298550/tap-click.svg" alt="click" width=14/ align=center>
+<summary style="cursor: pointer">
+Рейтинг на экране загрузки <i>(клик)</i>
 </summary>
 
 ![ovr](ovr.jpg)
