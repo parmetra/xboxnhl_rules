@@ -121,7 +121,7 @@
 1.11.4 На все вышеперечисленные пункты распространяется правило, что необходимо предоставлять скриншот из игры с графиком интернет-соединения, по которому видно, что есть проблемы.
 
 <details>
-<summary style="cursor: pointer"><i>Скриншот качества соединения (клик)</i></summary>
+<summary style="cursor: pointer">Скриншот качества соединения <i>(клик)</i></summary>
 
 ![Пинг](ping.jpg)
 
@@ -204,7 +204,7 @@
 3.3.2 Примеры схем плей-офф в зависимости от участников находятся под спойлерами ниже.
 
 <details>
-<summary style="cursor: pointer"><i>Плей-офф 1/2</i></summary>
+<summary style="cursor: pointer">Плей-офф 1/2 <i>(клик)</i></summary>
 
 ![1/2](12.jpg)
 
@@ -212,7 +212,7 @@
 <br/>
 
 <details>
-<summary style="cursor: pointer"><i>Плей-офф 1/4</i></summary>
+<summary style="cursor: pointer">Плей-офф 1/4 <i>(клик)</i></summary>
 
 ![1/4](14.jpg)
 
@@ -220,7 +220,7 @@
 <br/>
 
 <details>
-<summary style="cursor: pointer"><i>Плей-офф 1/8</i></summary>
+<summary style="cursor: pointer">Плей-офф 1/8 <i>(клик)</i></summary>
 
 ![1/8](18.jpg)
 
