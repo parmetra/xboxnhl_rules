@@ -8,11 +8,11 @@
 >
 > <img src="https://www.svgrepo.com/show/448261/youtube.svg" alt="youtube" width=14/ align=center> https://youtu.be/YlyVUGsQ-rk
 >
-> <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" alt="vk" width=14/ align=center> https://vk.com/xboxnhl?z=video-215401666_456239053
+> <img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" alt="vk" width=14/ align=center> https://vk.com/video-215401666_456239053
 
 ## Введение
 
-Основная часть правил наследуется из [основного регламента турниров XBOXNHL](/nhl/nhl.md).
+Основная часть правил наследуется из [основного регламента турниров CYBER-ICE.RU](/nhl/nhl.md).
 
 Также в турнирах в режиме HUT [действуют временные рамки](/timeLimit/timeLimit.md).
 
