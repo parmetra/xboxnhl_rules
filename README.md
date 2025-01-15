@@ -21,5 +21,7 @@
 > -   [Турниры HUT](/hut/hut.md)
 >
 > -   [Момент сезона](/momentOfTheSeason/momentOfTheSeason.md)
+> 
+> -   [Призовой фонд](/prize_money/prize_money.md)
 
 <!-- > -   [Турниры UFC](/ufc/ufc.md) -->
