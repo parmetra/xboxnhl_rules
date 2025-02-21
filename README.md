@@ -20,8 +20,8 @@
 >
 > -   [Турниры HUT](/hut/hut.md)
 >
-> -   [Момент сезона](/momentOfTheSeason/momentOfTheSeason.md)
+> -   [Момент сезона](/events/season_highlight.md)
+>
+> -   [Прогноз на победителя сезона](/events/playoff_winner_prediction.md)
 > 
 > -   [Призовой фонд](/prize_money/prize_money.md)
-
-<!-- > -   [Турниры UFC](/ufc/ufc.md) -->
