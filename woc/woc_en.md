@@ -87,7 +87,7 @@ If there are 9 or more teams, each team plays 2 matches against every other team
 
 4.4.1.2 After a disconnect, teams must record the match time, score, and player stats.
 
-4.4.1.3 Examples of when goals after a disconnect are counted or not can be found in [World of CHEL. Appendix A](/woc/examples_a)
+4.4.1.3 Examples of when goals after a disconnect are counted or not can be found in [World of CHEL. Appendix A](/woc/examples_a_en)
 
 4.4.2 If a player or the game disconnects, the match must be restarted. The restart must include:
 - All human players on the ice
