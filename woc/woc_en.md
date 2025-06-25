@@ -16,7 +16,7 @@ The core rules are inherited from the [Main CYBER-ICE.RU Tournament Regulations]
 
 1.2.1 The team logo may differ from the in-game version but must not violate any copyright. If an image from the internet is used as a team logo, the team must have permission to use it.
 
-1.2.2 If a team intends to use logos of professional hockey clubs (e.g., KHL, VHL, MHL) or other organizations, you must get official permission. Full details can be found in the [Regulations for Applying to Represent an Official Organization in CYBER-ICE.RU](/woc/official_team.md).
+1.2.2 If a team intends to use logos of professional hockey clubs (e.g., KHL, VHL, MHL) or other organizations, you must get official permission. Full details can be found in the [Regulations for Applying to Represent an Official Organization in CYBER-ICE.RU](/woc/official_team_en.md).
 
 1.2.3 Alternatively, teams may generate a custom logo using AI tools or find a free image online that does not have copyright.
 
