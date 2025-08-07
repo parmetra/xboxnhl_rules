@@ -21,5 +21,3 @@
 > -   [Турниры HUT](/hut/hut.md)
 >
 > -   [Момент сезона](/events/season_highlight.md)
->
-> -   [Прогноз на победителя сезона](/events/playoff_winner_prediction.md)
