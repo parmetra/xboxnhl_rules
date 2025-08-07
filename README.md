@@ -23,5 +23,3 @@
 > -   [Момент сезона](/events/season_highlight.md)
 >
 > -   [Прогноз на победителя сезона](/events/playoff_winner_prediction.md)
-> 
-> -   [Призовой фонд](/prize_money/prize_money.md)
