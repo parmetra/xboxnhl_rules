@@ -19,5 +19,3 @@
 > -   [Турниры World of CHEL](/woc/woc.md)
 >
 > -   [Турниры HUT](/hut/hut.md)
->
-> -   [Момент сезона](/events/season_highlight.md)
