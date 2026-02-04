@@ -67,29 +67,7 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 2.2.4 You can do transfers during the group stage, as long as at least one match from all the regular championship games is still not played. As soon as all games in the group stage are finished, the transfer window closes for all teams.
 
-2.2.5 Submission and Approval
-
-2.2.5.1 The team captain posts the transfer request in the special topic of the official tournament chat, including:
-- the player's name;
-- nickname;
-- gaming platform (Xbox / PlayStation);
-- team name.
-
-2.2.5.2 The player must be registered on the CYBER-ICE.RU platform before the request is submitted; otherwise, the request is automatically rejected and must be submitted again after registration.
-
-2.2.5.3 The transfer is approved after confirmation from the Administration and a public announcement in the chat. Only after that can the player play for the team.
-
-2.2.6 Special Features for Transfers in Golden Division Teams
-
-2.2.6.1 There are no limits on the level of players in the team.
-
-2.2.6.2 If the Administration does not reply to the request within 60 minutes of it being posted, and there is a free spot in the team and an available transfer (see point 2.2.2), the transfer is automatically approved. The Administration will then post the announcement in the chat.
-
-2.2.7 Special Features for Transfers in Silver Division Teams
-
-2.2.7.1 The team limits are set out in point 2.1.3 of these Rules.
-
-2.2.7.2 Requests in the Silver Division must be reviewed by a special judging panel within 24 hours to check if they meet the limits in point 2.2.7.1. The panel sends the decision to the Administration, who then approves or rejects the transfer. If rejected, the reason is given. An announcement in the chat is required; the player can only play for the team after this announcement.
+2.2.5 Club captains or their assistants must sign or remove players directly using the official CYBER-ICE.RU mini-app.
 
 ## 3 Positions and Lineups
 
