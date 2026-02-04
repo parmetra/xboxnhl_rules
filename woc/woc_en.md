@@ -95,7 +95,7 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 3.1. Participants can change their player positions in each match. They can choose between centre forward, winger, defender and goalkeeper (if the season uses human goalkeepers).
 
-3.2. Starting from NHL 25, all abilities (perks) will be allowed, including those that were banned before. This point may change after a vote at the end of the season.
+3.2. The format for using abilities (perks) is decided by a captains' vote at the end of each season. The chosen format is set in the tournament description before registration opens and remains the same throughout the next season.
 
 ## 4 Match Settings and Rules
 
