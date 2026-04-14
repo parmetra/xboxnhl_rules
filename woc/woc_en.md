@@ -91,21 +91,38 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
     ![Example match settings](settings.jpg)
 
-4.3. Only teams with a full lineup can play in a match. Bots must not play on the ice (except goalkeepers, if the season uses bot goalkeepers).
+4.3 Only teams with a full lineup can play in a match. Bots must not play on the ice (except goalkeepers, if the season uses bot goalkeepers).
 
-4.4.1.1 If a player disconnects from a team, the match does not continue from that moment. It must be stopped while a bot is on the ice (except the goalkeeper, if bot goalkeepers are used).
+4.4 Restoring the match after a disconnect
 
-4.4.1.2 After a disconnection, note the time, the team scores and the player statistics.
+If a player in either team loses connection, the match must not continue and must be stopped while a bot is on the ice instead of that player. The only exception is the goalkeeper if the season is played with bot goalkeepers.
 
-4.4.1.3 See examples of when goals count or do not count after a disconnection in the document [World of CHEL. Appendix A](/woc/examples_a)
+After the disconnect, the teams must record the score, the in-game time, and the player stats, and must also restore the line-ups that were on the ice before the disconnect (player substitutions and position changes are not allowed).
 
-4.4.2 If there is a disconnection in the game or for a player, the match must be restarted so that all human players are on the ice. Take into account the time already played and the score. Also add 5:00 minutes of game time to make up for the last 60 seconds of the third period, which last 60 seconds in real time.
+4.4.1 Line-ups and penalties
 
-4.4.2.1 The period is set to 4 minutes in real time, which is the same as 20 minutes in game time. So, 1 minute in real time equals 5 minutes in game time.
+4.4.1.1 If one of the teams had a penalty at the moment of the disconnect, the match must be resumed with the same number of players on the ice for each team.
 
-4.4.2.2 If the disconnection happens in the third period in the last sixty seconds (in real time), after the restart the number of game seconds left to play is worked out like this: (number of remaining real-time seconds × 5).
+4.4.1.2 For this purpose, the team that was shorthanded at the moment of the disconnect must take a technical penalty immediately after the opening face-off in the replayed part of the match.
 
-4.4.3 Each team can have up to two disconnections per game. If there are more, the team gets a technical defeat if the opponent asks for it.
+4.4.2 Time-outs
+
+4.4.2.1 If a team used its time-out before the disconnect, it is not allowed to use another time-out during the replayed part of the match.
+
+4.4.2.2 If this rule is broken, a technical loss may be awarded if requested by the opposing team.
+
+4.4.3 Replay time
+
+4.4.3.1 The match is resumed with the same score and the same played time.
+
+4.4.3.2 In addition, 5:00 minutes of in-game time are added to the replay time to cover the last 60 seconds of the third period, which run in real time in the game.
+
+4.4.3.3 If the disconnect happens during the last 60 seconds of the third period, the amount of replay time is calculated by the following formula:
+`(remaining real-time seconds × 5)`.
+
+4.4.4 Examples of cases where goals scored after a disconnect are counted or not counted can be found in the document [World of CHEL. Appendix A](/woc/examples_a)
+
+4.5 Each team is allowed up to two disconnects per match. If this number is exceeded, the team may be given a technical loss if the opponent requests this outcome.
 
 ## 5 Scheduling Matches
 
