@@ -57,6 +57,8 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 2.1.4 If two seasons are held at the same time (Golden and Silver divisions), a participant can take part only in one of them.
 
+2.1.5 A player gets “Gold” status if their rating is 550 points or more. A player can also get this status by decision of the special refereeing panel if they have not played on the platform before but already have playing experience.
+
 ## 2.2 Transfers
 
 2.2.1 During the season, transfers are allowed. This means you can move a player from one club to another, add a new participant to the team, or remove someone from the team.
@@ -67,7 +69,25 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 2.2.4 You can do transfers during the group stage, as long as at least one match from all the regular championship games is still not played. As soon as all games in the group stage are finished, the transfer window closes for all teams.
 
-2.2.5 Club captains or their assistants must sign or remove players directly using the official CYBER-ICE.RU mini-app.
+2.2.5 Submission and approval
+
+2.2.5.1 Gold Division
+
+2.2.5.1.1 The club captain or assistant can add a new player to the team (or remove a player from the team) through the official CYBER-ICE.RU mini app.
+
+2.2.5.2 Silver Division
+
+2.2.5.2.1 The team captain or assistant posts a transfer request in the special thread of the official tournament chat and must include:
+
+* the player’s name;
+* the player’s nickname;
+* the team name.
+
+2.2.5.2.2 The player must be registered on the CYBER-ICE.RU platform before the request is posted. If not, the request is rejected automatically and must be posted again after full registration.
+
+2.2.5.2.3 A transfer is approved only after the Administration confirms it and announces it publicly in the chat. Only after this can the player play for the team.
+
+2.2.5.2.4 The request must be checked by the special refereeing panel within 24 hours for compliance with clause 2.1.3. After that, the panel sends its decision to the Administration. The Administration then completes the transfer or rejects it. If it is rejected, the reason must be given.
 
 ## 3 Positions and Lineups
 
