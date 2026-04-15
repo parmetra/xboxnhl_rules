@@ -84,7 +84,7 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 -   **Game Type** - Private Game
 -   **Password** - Captains agree on a password between themselves
 -   **Side Selection** - Captains agree on who starts at home and who away
--   **Server Selection** - Captains agree on the closest server, but usually it is Europe North-East or Europe North
+-   **Server Selection** - The home team chooses the server (from the Europe server pool). However, the captains may agree to use a different server
 -   **Allow Replay Skipping** - Captains agree between themselves, but it is recommended to set it to No if the match is being shown live with commentary
 -   **Period Length** - 4 minutes
 -   **Grudge Match Game** - Captains agree between themselves, but it is recommended to set it to **No**
