@@ -137,11 +137,23 @@ After the disconnect, the teams must record the score, the in-game time, and the
 - Date and time of the matches
 - Number of games planned for that time
 
-5.1.3 If the number of games was not mentioned in the agreement, by default it is two games.
+5.1.3 If the number of games was not mentioned in the agreement, by default it is one game.
 
-5.2.1 The waiting time for the other team is 15 minutes.
+5.1.3 If the number of games was not specified when the teams made the arrangement, it is considered by default that one match was planned.
 
-5.2.2 For example, captains agreed to start the game at 20:00. Team A is ready and waits for Team B. If Team B is more than 15 minutes late, Team B gets a technical defeat in that match if Team A asks for it.
+5.2 Waiting for the opposing team
+
+5.2.1 The waiting time is counted from the officially agreed match start time.
+
+5.2.2 If the teams agreed to start a series of matches at 20:00, and one of the teams is not ready to start, the other team must wait for 15 minutes.
+
+5.2.3 If, after 15 minutes from the officially agreed match start time, a team is still not ready to start the game, the ready team has the right to request a technical win for that match. The captain of the team requesting the technical win must, at that same moment, notify the opposing team’s captain and the Administration.
+
+5.2.4 If the teams agreed in advance to play two or more matches in a row, each next 15-minute waiting period is treated as the waiting time for the next match. In this case, after the first 15 minutes, the ready team has the right to request a technical win for the first match; after the next 15 minutes, for the second match; and the same rule applies to each following match in the series. The captain of the team requesting a technical win for the next match must, at the moment of making that request, notify the opposing team’s captain and the Administration.
+
+5.2.5 If the first match was played, the next match must start no later than 15 minutes after the end of the previous match, unless the captains agreed in advance on a different start time.
+
+5.2.6 If the time limit set in clause 5.2.5 is broken, the procedure set out in clauses 5.2.3–5.2.4 applies.
 
 5.3 If a match is already agreed, you can move it to another time or date no less than 2 hours before the start, or with agreement from both captains.
 
