@@ -183,15 +183,15 @@ After the disconnect, the teams must record the score, the in-game time, and the
 
 6.1 Team captains cannot leave the team or move to another club during the current season. So if you take on the role of club leader before the tournament starts, you must see the season through to the end.
 
-6.2.1 Captains whose team has withdrawn from the tournament or been disqualified cannot take part in the next seasons either as a captain or as a player. For more details: [Tournament Disciplinary Sanctions Rules](/control_and_penalties.md/control_and_penalties.md).
+6.2.1 Captains whose team has withdrawn from the tournament or been disqualified cannot take part in the next seasons either as a captain or as a player. For more details: [Timeframes, activity monitoring, and penalties, section 7](/activity_and_penalties/activity_and_penalties.md).
 
-6.2.2 Teams (name, abbreviation and logo) that have withdrawn from the tournament or been disqualified cannot take part in the next seasons. For more details: [Tournament Disciplinary Sanctions Rules](/control_and_penalties.md/control_and_penalties.md).
+6.2.2 Teams (name, abbreviation and logo) that have withdrawn from the tournament or been disqualified cannot take part in the next seasons. For more details: [Timeframes, activity monitoring, and penalties, section 7](/activity_and_penalties/activity_and_penalties.md).
 
 6.2.3 The limit does not apply to players in that team, except the captain.
 
 6.3 If someone tries to get around the limits by creating a second account, that participant will get a permanent ban from all future tournaments.
 
-6.4 The legal way to remove sanctions is described in the general regulations in the point [Removing a Penalty](/control_and_penalties.md/control_and_penalties.md#6-снятие-штрафа).
+6.4 The legal way to remove sanctions is described in the document  [Timeframes, activity monitoring, and penalties, section 8](/activity_and_penalties/activity_and_penalties.md).
 
 ## 7 Modified Time Frames
 
