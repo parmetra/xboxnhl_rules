@@ -227,10 +227,6 @@ If this is not done, at midnight a TD (0:0) will be set according to point 7.1.3
 
 7.2.1 If during the season or at the end a team reaches 30% TD from all its matches in the regular season, it will be disqualified in the current and next season + matching sanctions for the captain. No sanctions apply to ordinary players in the team.
 
-7.2.1.1 Disqualification in the current season: the team will get TD 0:5 for the remaining matches, if at the time of disqualification it had played 50% of its games in the tournament table. Otherwise, the team is removed from the table, and the results of its games are cancelled.
-
-7.2.1.2 Disqualification in the next season: see points 6.2.1 and 6.2.2
-
 ## 8 Reporting Match Results
 
 ### 8.1 Adding Photo Results to the Tournament Chat
