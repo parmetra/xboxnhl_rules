@@ -13,9 +13,7 @@
 >
 > -   [Основные правила + турниры Online Versus](/nhl/nhl.md)
 >
-> -   [Временные рамки](/timeLimit/timeLimit.md)
->
-> -   [Меры контроля активнос и штрафные меры](/control_and_penalties.md/control_and_penalties.md)
+> -   [Временные рамки, контроль активности и штрафные санкции](/activity_and_penalties/activity_and_penalties.md)
 >
 > -   [Турниры World of CHEL](/woc/woc.md)
 >

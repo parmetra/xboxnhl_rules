@@ -57,6 +57,8 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 2.1.4 If two seasons are held at the same time (Golden and Silver divisions), a participant can take part only in one of them.
 
+2.1.5 A player gets “Gold” status if their rating is 550 points or more. A player can also get this status by decision of the special refereeing panel if they have not played on the platform before but already have playing experience.
+
 ## 2.2 Transfers
 
 2.2.1 During the season, transfers are allowed. This means you can move a player from one club to another, add a new participant to the team, or remove someone from the team.
@@ -67,7 +69,25 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 2.2.4 You can do transfers during the group stage, as long as at least one match from all the regular championship games is still not played. As soon as all games in the group stage are finished, the transfer window closes for all teams.
 
-2.2.5 Club captains or their assistants must sign or remove players directly using the official CYBER-ICE.RU mini-app.
+2.2.5 Submission and approval
+
+2.2.5.1 Gold Division
+
+2.2.5.1.1 The club captain or assistant can add a new player to the team (or remove a player from the team) through the official CYBER-ICE.RU mini app.
+
+2.2.5.2 Silver Division
+
+2.2.5.2.1 The team captain or assistant posts a transfer request in the special thread of the official tournament chat and must include:
+
+* the player’s name;
+* the player’s nickname;
+* the team name.
+
+2.2.5.2.2 The player must be registered on the CYBER-ICE.RU platform before the request is posted. If not, the request is rejected automatically and must be posted again after full registration.
+
+2.2.5.2.3 A transfer is approved only after the Administration confirms it and announces it publicly in the chat. Only after this can the player play for the team.
+
+2.2.5.2.4 The request must be checked by the special refereeing panel within 24 hours for compliance with clause 2.1.3. After that, the panel sends its decision to the Administration. The Administration then completes the transfer or rejects it. If it is rejected, the reason must be given.
 
 ## 3 Positions and Lineups
 
@@ -84,28 +104,45 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 -   **Game Type** - Private Game
 -   **Password** - Captains agree on a password between themselves
 -   **Side Selection** - Captains agree on who starts at home and who away
--   **Server Selection** - Captains agree on the closest server, but usually it is Europe North-East or Europe North
+-   **Server Selection** - The home team chooses the server (from the Europe server pool). However, the captains may agree to use a different server
 -   **Allow Replay Skipping** - Captains agree between themselves, but it is recommended to set it to No if the match is being shown live with commentary
 -   **Period Length** - 4 minutes
 -   **Grudge Match Game** - Captains agree between themselves, but it is recommended to set it to **No**
 
     ![Example match settings](settings.jpg)
 
-4.3. Only teams with a full lineup can play in a match. Bots must not play on the ice (except goalkeepers, if the season uses bot goalkeepers).
+4.3 Only teams with a full lineup can play in a match. Bots must not play on the ice (except goalkeepers, if the season uses bot goalkeepers).
 
-4.4.1.1 If a player disconnects from a team, the match does not continue from that moment. It must be stopped while a bot is on the ice (except the goalkeeper, if bot goalkeepers are used).
+4.4 Restoring the match after a disconnect
 
-4.4.1.2 After a disconnection, note the time, the team scores and the player statistics.
+If a player in either team loses connection, the match must not continue and must be stopped while a bot is on the ice instead of that player. The only exception is the goalkeeper if the season is played with bot goalkeepers.
 
-4.4.1.3 See examples of when goals count or do not count after a disconnection in the document [World of CHEL. Appendix A](/woc/examples_a)
+After the disconnect, the teams must record the score, the in-game time, and the player stats, and must also restore the line-ups that were on the ice before the disconnect (player substitutions and position changes are not allowed).
 
-4.4.2 If there is a disconnection in the game or for a player, the match must be restarted so that all human players are on the ice. Take into account the time already played and the score. Also add 5:00 minutes of game time to make up for the last 60 seconds of the third period, which last 60 seconds in real time.
+4.4.1 Line-ups and penalties
 
-4.4.2.1 The period is set to 4 minutes in real time, which is the same as 20 minutes in game time. So, 1 minute in real time equals 5 minutes in game time.
+4.4.1.1 If one of the teams had a penalty at the moment of the disconnect, the match must be resumed with the same number of players on the ice for each team.
 
-4.4.2.2 If the disconnection happens in the third period in the last sixty seconds (in real time), after the restart the number of game seconds left to play is worked out like this: (number of remaining real-time seconds × 5).
+4.4.1.2 For this purpose, the team that was shorthanded at the moment of the disconnect must take a technical penalty immediately after the opening face-off in the replayed part of the match.
 
-4.4.3 Each team can have up to two disconnections per game. If there are more, the team gets a technical defeat if the opponent asks for it.
+4.4.2 Time-outs
+
+4.4.2.1 If a team used its time-out before the disconnect, it is not allowed to use another time-out during the replayed part of the match.
+
+4.4.2.2 If this rule is broken, a technical loss may be awarded if requested by the opposing team.
+
+4.4.3 Replay time
+
+4.4.3.1 The match is resumed with the same score and the same played time.
+
+4.4.3.2 In addition, 5:00 minutes of in-game time are added to the replay time to cover the last 60 seconds of the third period, which run in real time in the game.
+
+4.4.3.3 If the disconnect happens during the last 60 seconds of the third period, the amount of replay time is calculated by the following formula:
+`(remaining real-time seconds × 5)`.
+
+4.4.4 Examples of cases where goals scored after a disconnect are counted or not counted can be found in the document [World of CHEL. Appendix A](/woc/examples_a)
+
+4.5 Each team is allowed up to two disconnects per match. If this number is exceeded, the team may be given a technical loss if the opponent requests this outcome.
 
 ## 5 Scheduling Matches
 
@@ -120,11 +157,23 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 - Date and time of the matches
 - Number of games planned for that time
 
-5.1.3 If the number of games was not mentioned in the agreement, by default it is two games.
+5.1.3 If the number of games was not mentioned in the agreement, by default it is one game.
 
-5.2.1 The waiting time for the other team is 15 minutes.
+5.1.3 If the number of games was not specified when the teams made the arrangement, it is considered by default that one match was planned.
 
-5.2.2 For example, captains agreed to start the game at 20:00. Team A is ready and waits for Team B. If Team B is more than 15 minutes late, Team B gets a technical defeat in that match if Team A asks for it.
+5.2 Waiting for the opposing team
+
+5.2.1 The waiting time is counted from the officially agreed match start time.
+
+5.2.2 If the teams agreed to start a series of matches at 20:00, and one of the teams is not ready to start, the other team must wait for 15 minutes.
+
+5.2.3 If, after 15 minutes from the officially agreed match start time, a team is still not ready to start the game, the ready team has the right to request a technical win for that match. The captain of the team requesting the technical win must, at that same moment, notify the opposing team’s captain and the Administration.
+
+5.2.4 If the teams agreed in advance to play two or more matches in a row, each next 15-minute waiting period is treated as the waiting time for the next match. In this case, after the first 15 minutes, the ready team has the right to request a technical win for the first match; after the next 15 minutes, for the second match; and the same rule applies to each following match in the series. The captain of the team requesting a technical win for the next match must, at the moment of making that request, notify the opposing team’s captain and the Administration.
+
+5.2.5 If the first match was played, the next match must start no later than 15 minutes after the end of the previous match, unless the captains agreed in advance on a different start time.
+
+5.2.6 If the time limit set in clause 5.2.5 is broken, the procedure set out in clauses 5.2.3–5.2.4 applies.
 
 5.3 If a match is already agreed, you can move it to another time or date no less than 2 hours before the start, or with agreement from both captains.
 
@@ -134,15 +183,15 @@ The main part of the rules comes from the [main regulations for CYBER-ICE.RU tou
 
 6.1 Team captains cannot leave the team or move to another club during the current season. So if you take on the role of club leader before the tournament starts, you must see the season through to the end.
 
-6.2.1 Captains whose team has withdrawn from the tournament or been disqualified cannot take part in the next seasons either as a captain or as a player. For more details: [Tournament Disciplinary Sanctions Rules](/control_and_penalties.md/control_and_penalties.md).
+6.2.1 Captains whose team has withdrawn from the tournament or been disqualified cannot take part in the next seasons either as a captain or as a player. For more details: [Timeframes, activity monitoring, and penalties, section 7](/activity_and_penalties/activity_and_penalties.md).
 
-6.2.2 Teams (name, abbreviation and logo) that have withdrawn from the tournament or been disqualified cannot take part in the next seasons. For more details: [Tournament Disciplinary Sanctions Rules](/control_and_penalties.md/control_and_penalties.md).
+6.2.2 Teams (name, abbreviation and logo) that have withdrawn from the tournament or been disqualified cannot take part in the next seasons. For more details: [Timeframes, activity monitoring, and penalties, section 7](/activity_and_penalties/activity_and_penalties.md).
 
 6.2.3 The limit does not apply to players in that team, except the captain.
 
 6.3 If someone tries to get around the limits by creating a second account, that participant will get a permanent ban from all future tournaments.
 
-6.4 The legal way to remove sanctions is described in the general regulations in the point [Removing a Penalty](/control_and_penalties.md/control_and_penalties.md#6-снятие-штрафа).
+6.4 The legal way to remove sanctions is described in the document  [Timeframes, activity monitoring, and penalties, section 8](/activity_and_penalties/activity_and_penalties.md).
 
 ## 7 Modified Time Frames
 
@@ -177,10 +226,6 @@ If this is not done, at midnight a TD (0:0) will be set according to point 7.1.3
 ### 7.2 TD Limit
 
 7.2.1 If during the season or at the end a team reaches 30% TD from all its matches in the regular season, it will be disqualified in the current and next season + matching sanctions for the captain. No sanctions apply to ordinary players in the team.
-
-7.2.1.1 Disqualification in the current season: the team will get TD 0:5 for the remaining matches, if at the time of disqualification it had played 50% of its games in the tournament table. Otherwise, the team is removed from the table, and the results of its games are cancelled.
-
-7.2.1.2 Disqualification in the next season: see points 6.2.1 and 6.2.2
 
 ## 8 Reporting Match Results
 
