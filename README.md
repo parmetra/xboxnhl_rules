@@ -18,4 +18,6 @@
 > -   [Турниры World of CHEL](/woc/woc.md)
 >
 > -   [Турниры HUT](/hut/hut.md)
+>
+> -   [Турниры Connected Franchise](/franchise/franchise.md)
 
